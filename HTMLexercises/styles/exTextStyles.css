@@ -1,0 +1,76 @@
+.tahoma-text {
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .deal-text {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+  .sales-text {
+    font-family: Arial;
+    font-size: 17px;
+    color: rgb(152, 2, 2);
+    font-style: italic;
+    margin-top: 2px;
+  }
+  .html-text {
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+  .beginner-text {
+    font-size: 17px;
+    color: grey;
+    font-family: Verdana;
+    margin-top: 5px;
+    font-weight: 100;
+  }
+  .course-description {
+    font-family: Verdana;
+    font-size: 17px;
+    font-weight: 100;
+    color: black;
+    width: 330px;
+  }
+  .get-started-button {
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: lighter;
+    background-color: rgb(64, 106, 41);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+  .shopping-business {
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 17px;
+  }
+  .see-how-text {
+    font-family: Arial;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 17px;
+  }
+  .apple-link {
+    font-family: Arial;
+    font-size: 16px;
+    color: blue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

@@ -1,0 +1,25 @@
+.name-input,
+.email-input {
+  display: block;
+  font-size: 22px;
+  margin-bottom: 7px;
+  border-style: solid;
+  border-radius: 3px;
+  border-color: rgb(140, 140, 140);
+  border-width: 1px;
+}
+.survey-text {
+  font-size: 24px;
+  width: 285px;
+  display: inline-block;
+}
+.buttons {
+  font-size: 24px;
+  border-style: solid;
+  border-color: rgb(120, 120, 120);
+  border-radius: 4px;
+  background-color: rgb(240, 240, 240);
+  border-width: 1px;
+  padding-left: 11px;
+  padding-right: 11px;
+}

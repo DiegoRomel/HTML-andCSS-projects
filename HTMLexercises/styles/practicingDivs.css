@@ -1,0 +1,10 @@
+
+.container {
+    width: 300px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.thumbnail {
+    width: 300px;
+    vertical-align: top;
+}

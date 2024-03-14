@@ -1,0 +1,41 @@
+p {
+    font-family: Roboto;
+    font-weight: 300;
+    margin-top: 0;
+  }
+  .video-title {
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+  }
+  .views-paragraph {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 21px;
+  }
+  .person-paragraph {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 21px;
+  }
+  .description-paragraph {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    line-height: 22px;
+  }
+  .ad-paragraph {
+    font-size: 18px;
+    color: white;
+    background-color: rgb(227, 65, 64);
+    border: none;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    text-align: center;
+  }
+  .shop-link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }

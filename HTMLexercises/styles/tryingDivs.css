@@ -1,0 +1,9 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial;
+    font-size: 24px;
+    margin: 25px;
+    outline: dashed 1px black;
+}

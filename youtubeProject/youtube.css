@@ -1,0 +1,30 @@
+
+.container {
+  width: 300px;
+  display: inline-block;
+  margin-right: 8px;
+  vertical-align: top;
+}
+p {
+  font-family: Arial;
+  margin: 0;
+}
+.image1 {
+  width: 300px;
+  display: block;
+}
+.textbox {
+  font-size: 14px;
+  display: block;
+}
+.video-title {
+  font-weight: 600;
+  margin-top: 13px;
+}
+.channel {
+  margin-top: 17px;
+}
+.views {
+  margin-top: 8px;
+
+}

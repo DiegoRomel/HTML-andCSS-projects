@@ -1,0 +1,85 @@
+
+.container {
+    background-color: red;
+    width: 300px;
+    height:300px;
+    display: inline-block;
+}
+.container2 {
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    display: inline-block;
+}
+.container3 {
+    background-color: yellowgreen;
+    height: 300px;
+    width: 300px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    display: inline-block;
+}
+.container4 {
+    background-color: rgb(34, 60, 230);
+    width: 200px;
+    height: 120px;
+    display: inline-block;
+    border-top-style: groove;
+    border-left-style: dashed;
+    border-right-style: dotted;
+    border-bottom-style: double;
+}
+.satisfied-text {
+    font-family: Arial;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 17px;
+
+}
+button {
+    font-size: 28px;
+    font-family: Arial;
+    padding-left: 11px;
+    padding-right: 11px;
+    border-radius: 3px;
+    border-style: solid;
+    background-color: rgb(244, 244, 244);
+    border-width: 1px;
+
+}
+.feedback-container {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: rgb(130, 130, 130);
+    padding-left: 38px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    width: 500px;
+}
+.installyt {
+    font-size: 28px;
+    color: white;
+    font-family: Arial;
+    font-weight: 700;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 14px;
+}
+.description {
+    font-size: 18px;
+    font-family: Arial;
+    color: rgb( 140, 140 ,140);
+    padding: 0px;
+    margin: 0px;
+}
+.ytmusic {
+    margin-top: 30px;
+    background-color: rgb(45, 45, 45);
+    padding-top: 26px;
+    padding-bottom: 26px;
+    padding-left: 18px;
+    width:560px;
+    
+}

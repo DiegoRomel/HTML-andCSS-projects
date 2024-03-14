@@ -1,0 +1,36 @@
+p {
+    font-size: 44px;
+    font-family: Arial;
+    margin: 0px;
+    margin-bottom: 27px;
+}
+input {
+    font-size: 18px;
+    border: none;
+    background-color: rgb(240, 240, 240);
+    padding-left: 23px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    display: block;
+    width: 415px;
+    margin-bottom: 14px;
+}
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    text-align: center;
+    font-size: 18px;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-right: 21px;
+}
+.second-button {
+    background-color: rgb(240, 240, 240);
+    color: black;
+}
+button:hover {
+    cursor: pointer;
+}

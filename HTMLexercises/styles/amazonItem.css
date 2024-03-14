@@ -1,0 +1,34 @@
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.flex-container2 {
+  width: 280px;
+  margin-left: 40px;
+}
+.airfryer-image {
+  width: 200px;
+}
+.description {
+  display: inline-block;
+  font-size: 26px;
+  font-family: Arial;
+}
+.visit-store {
+  margin-top: 0px;
+  font-family: Arial;
+  color: rgb(42, 90, 235);
+}
+.visit-store:hover {
+  cursor: pointer;
+}
+.checked {
+  color: orange;
+}
+.rating {
+  margin: 0px;
+  display: inline-block;
+}
+.number-clients {
+  display: inline-block;
+}

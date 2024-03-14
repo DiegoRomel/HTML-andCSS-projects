@@ -1,0 +1,74 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 11px;
+  }
+  .new-text {
+    color: rgb(194, 120, 71);
+    font-size: 12px;
+  }
+  .macbook-text {
+    font-size: 24px;
+  }
+  .supercharged-text {
+    font-size: 42px;
+    font-weight: bolder;
+  }
+  .from-button {
+    font-size: 15px;
+  }
+  .buy-button {
+    background-color: rgb(60, 125, 222);
+    color: white;
+    border: none;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 15px;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+  .quotation-text {
+    font-size: 40px;
+  }
+  .usd-text {
+    font-size: 20px;
+  }
+  .today-text {
+    font-size: 19px;
+    color: green;
+  }
+  .after-text {
+    font-size: 19px;
+    color: rgb(50, 50, 50);
+    margin-bottom: 40px;
+  }
+  .red-text {
+    color: rgb(177, 0, 0);
+  }
+  .first-p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .second-p {
+    font-size: 20px;
+    width: 650px;
+    margin-bottom: 20px;
+  }
+  .third-p {
+    font-size: 20px;
+  }
+  .at-text {
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.5);
+  }
+  .blue-text {
+    color: rgb(61, 123, 215);
+  }
