@@ -1,0 +1,45 @@
+
+p {
+  font-family: Roboto, Arial;
+  margin: 0px;
+  font-size: 14px;
+}
+.youtube-video {
+  width: 300px;
+  border-color: rgb(180, 180, 180);
+  border: none;
+  display: inline-block;
+  margin-bottom: 5px;
+  margin-right: 7px;
+}
+.thumbnail {
+  width: 300px;
+  border-radius: 9px;
+}
+.profile-image {
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  margin: 0px;
+}
+.video-title {
+  display: inline-block;
+  border: none;
+  font-weight: 500;
+  font-size: 16px;
+}
+.video-info {
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  margin-top: 4px;
+}
+.channel-description,
+.views-time {
+  margin-top: 4px;
+  color: rgb(100, 100, 100);
+}
+.video-texts {
+  margin-left: 9px;
+}
