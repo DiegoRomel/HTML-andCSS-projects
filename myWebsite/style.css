@@ -1,0 +1,144 @@
+body {
+  background-image: linear-gradient(75deg, #8A8969, #D6D597);
+  margin: 0px;
+}
+a {
+  color: rgb(250, 245, 250);
+  text-decoration: none;
+}
+.main-content-div {
+  margin: 45px;
+}
+h1 {
+  font-family: IBM Plex Sans;
+  color: rgb(255, 255, 255);
+  padding-top: 20px;
+  padding-bottom: 8px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 45px;
+}
+h2 {
+  font-family: IBM Plex Sans;
+  color: rgb(255, 255, 255);
+  margin-top: 0px;
+  margin-bottom: 20px;
+  padding-left: 45px;
+  font-size: 30px;
+}
+p {
+  font-family: IBM Plex Sans;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.basic-information {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+.question {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+.design-text,
+.programming-text,
+.tools-text {
+  font-size: 42px;
+}
+
+.design-text:hover {
+  color: #653991;
+  transition: 0.7s;
+}
+.technology-areas {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 17px;
+}
+.programming-text:hover {
+  color: #653991;
+  transition: 0.7s;
+}
+.tools-text:hover {
+  color: #653991;
+  transition: 0.7s;
+}
+.calendar-icon {
+  width: 27px;
+  height: 27px;
+}
+.born-information {
+  display: flex;
+}
+.born-date {
+  margin-left: 7px;
+}
+.telephone {
+  display: flex;
+}
+.telephone-number {
+  margin-left: 7px;
+}
+.telephone-icon {
+  width: 27px;
+  height: 27px;
+}
+.email {
+  display: flex;
+}
+.email-address {
+  margin-left: 7px;
+}
+.email-icon {
+  width: 27px;
+  height: 27px;
+}
+.navigate-bar ul {
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+.heading-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #616039;
+  padding-left: 45px;
+  padding-right: 45px;
+  align-items: center;
+}
+.navigate-bar li {
+  margin-right: 27px;
+}
+.profile-div {
+  display: flex;
+  margin-top: 66px;
+  margin-bottom: 66px;
+}
+.profile-image {
+  height: 450px;
+  border-radius: 300px;
+  object-fit: cover;
+  margin-right: 222px;
+  margin-left: 25px;
+}
+.profile-text {
+  text-align: right;
+  margin: auto;
+  margin-left: 222px;
+  margin-right: 25px;
+  font-size: 21px;
+  line-height: 31px;
+}
+.description-text {
+    text-align: justify;
+    line-height: 25px;
+}
